@@ -20,3 +20,5 @@
 1. Clone este repositório.
 2. Instale as dependências usando `npm install`.
 3. Execute o servidor de desenvolvimento com `npm run dev`.
+
+![image](https://github.com/JailsonMendonca/Event_react_backOffice/assets/127445044/fdbcbd46-8871-4078-beac-09ac134cdc16)
