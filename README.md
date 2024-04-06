@@ -1,12 +1,10 @@
 # Technology used
 
-### React.js
+#### React.js
 
 #### Vite.js
 
-### Tailwind css
-
-### #Run project
+#### Tailwind css
 
 ## Funcionalidades Principais
 
